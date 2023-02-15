@@ -44,8 +44,8 @@
 ### 🤝 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/acitjazz"><img src="https://img.shields.io/badge/-Dimas%20Mokodompit-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/acitjazz"><img src="https://img.shields.io/badge/-Acit%20Jazz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:acitjazz@gmail.com"><img src="https://img.shields.io/badge/-acitjazz@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/acitjazz"><img src="https://img.shields.io/badge/-@acitjazz_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/acitjazz"><img src="https://img.shields.io/badge/-Dimas%20Mokodompit-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/acitjazz"><img src="https://img.shields.io/badge/-Acit%20Jazz-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/acitjazz"><img src="https://img.shields.io/badge/-@acitjazz-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
